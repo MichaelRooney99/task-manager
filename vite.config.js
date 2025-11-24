@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   server: { open: true },
   resolve: { preserveSymlinks: true },
-  base: "./"
+  base: "/task-manager/"
 });
